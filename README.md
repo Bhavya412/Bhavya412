@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
  B.Tech CSE @ ANITS (2023–2027) | **CGPA: 9.61/10**<br>- 💻 Full-Stack Developer with strong expertise in **React.js, Node.js, Flask, Firebase**<br>- 🤖 AI/ML Engineer with hands-on experience in **LLMs, Scikit-learn, and Data Science pipelines**<br>- 📊 Strong in **Data Structures & Algorithms + Problem Solving**<br>- ⚡ Built **end-to-end production-style projects (AI + Web + ML + APIs)**<br>- 🧠 Experience in **real-world internships (Web Dev + Data Science)**
 
 
